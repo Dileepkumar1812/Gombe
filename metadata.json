@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gombe: Karnataka Puppet Theatre Guide",
+  "description": "An interactive chatbot that teaches users about the rich Puppet Theatre traditions (Gombeata) of Karnataka, India. Explore history, puppet types, and watch performances with this bilingual cultural guide.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
